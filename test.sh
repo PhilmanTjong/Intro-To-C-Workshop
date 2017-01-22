@@ -1,4 +1,5 @@
 #!/bin/bash
 echo Hello
 echo Today is
-date 
+date
+echo inputting new data 
